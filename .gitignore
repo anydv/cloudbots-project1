@@ -3,3 +3,4 @@
 *.net
 
 !4th.py
+[aeiou]*.pdf
